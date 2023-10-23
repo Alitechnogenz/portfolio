@@ -1,0 +1,132 @@
+body{
+    background-color:#EAF6F6;
+    color:#40514E;
+    margin:0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+h1{
+    color:rgb(64, 125, 120) ;
+    margin: auto;
+    font-family: 'Sacramento', cursive;
+    font-size:4.5rem;
+}
+.top {
+    background-color:rgb(143, 206, 240);
+    position:relative;
+    padding-top:120px;
+}
+.cloud1{
+    height:150px;
+    width:200px;
+    position:absolute;
+    top:30px;
+    right:150px;
+}
+.cloud2{
+    height:150px;
+    width:200px;
+    position:absolute;
+    left:100px;
+}
+.img0{
+    border-radius:50%;
+    height:210px;
+}
+.img1{
+    border-radius:50%;
+    width:35%;
+    float:left;
+    padding-right:30px;
+    
+}
+.img2{
+    border-radius:50%;
+    width:35%;
+    float: right;
+    padding-left:50px;
+}
+.head2{
+color:orangered;
+font-family: 'Merriweather', 'sans-serif';
+font-weight: normal;
+}
+.hed2{
+color:#11999E;
+font-family:'Merriweather', 'sans-serif';
+padding-top:30px;
+}
+.foot{
+    color:rgb(132, 85, 207);
+    font-family: 'Montserrat', sans-serif;
+    margin:10px 20px;
+    text-decoration:none; 
+}
+.foot:hover{
+    color:#EAF6F6;
+}
+.hed3{
+    color:#63a506ea;
+    font-family: 'Montserrat', sans-serif;
+}
+.skill-row{
+    width:50%;
+    margin:100px auto 170px auto;
+    text-align:left;
+    line-height: 2;
+   
+}
+hr {
+    border-style: dotted none none;
+    border-color: grey;
+    border-width: 5px;
+    width: 10%;
+    height: 0px;
+    text-align:center;
+}
+.profile{
+    width:30%;
+    margin: 100px auto 100px auto;
+    line-height: 2;
+}
+.contact-me{
+    padding-bottom: 50px;
+}
+.contact-me p{
+    margin-bottom: 60px;
+}
+.btn {
+    background: #11cdd4;
+    background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+    background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    
+  }
+  
+  .btn:hover {
+    background: #3cb0fd;
+    text-decoration: none;
+  }
+  .bottom{
+    background-color: #66BFBF;
+    padding:50px 0 20px;
+  }
+  .copyright{
+    color:#EAF6F6;
+    font-size:0.75rem;
+    padding:20px 0;
+  }
+.hr1{
+   
+    padding-top:50px;
+}
